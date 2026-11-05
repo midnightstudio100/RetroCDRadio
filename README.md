@@ -8,3 +8,4 @@ NOTE: this is made for Android only and you use it at your Own risk. the file is
 this app has background play support
 
 broadcasters: if you want the app removed from Github contact me at midnightstudio100@gmail.com
+now the web version is now available you can conveniently listen in without downloading the APK
