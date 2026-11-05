@@ -3,7 +3,7 @@ about radio: radio was found online and I did not copy and put it in the data ba
 it has WGTS Bright FM and everything. i will share the latest APK debug key. this is my first announcement the app is now stable enough for me to share
 Please do not copy. 
 features it has local music files permission when you first add it. it will ask you 
-the app is simple. it supports meta data it will display that on the screen on your phone 
+the app is simple. it supports meta data it will display that on the screen on your phone (currently not working)
 NOTE: this is made for Android only and you use it at your Own risk. the file is very clean and does not contain viruses.
 this app has background play support
 
