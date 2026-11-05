@@ -9,3 +9,5 @@ this app has background play support
 
 broadcasters: if you want the app removed from Github contact me at midnightstudio100@gmail.com
 now the web version is now available you can conveniently listen in without downloading the APK
+
+the reason why I actually made it with AI : The google play store doesn't seem to have the CD spinning mp3 player app
